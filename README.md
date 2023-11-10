@@ -2,8 +2,7 @@ This repo is a bit simplified fork of the original https://github.com/mshahbazi7
 
 All results were obtained using docker image nvcr.io/nvidia/pytorch:20.12-py3
 
-*ℹ️* Generates images of size 256x256
-*⚠️ WARNING!* this repo contains large checkpoints files. Unfortunately github does not allows to use git-lfs with public forks :(
+*⚠️ * Generates images of size 256x256
 
 # Generate images with pretrained models
 Download checkpoint [network-snapshot-003800.pkl](https://drive.google.com/file/d/1lKRhnbjQM8birI_X12JDd3L4ePvVfMDO/view?usp=sharing) and place it into `checkpoints` folder on the project root.
