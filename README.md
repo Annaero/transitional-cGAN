@@ -1,4 +1,4 @@
-This repo is a bit siplified fork of the original https://github.com/mshahbazi72/transitional-cGAN for the specific case of geometric-shapes-mathematics dataset. 
+This repo is a bit simplified fork of the original https://github.com/mshahbazi72/transitional-cGAN for the specific case of geometric-shapes-mathematics dataset. 
 
 All results were obtained using docker image nvcr.io/nvidia/pytorch:20.12-py3
 
